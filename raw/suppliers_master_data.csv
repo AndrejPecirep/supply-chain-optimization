@@ -1,0 +1,6 @@
+supplier_id,supplier_name,country,lead_time_days,on_time_delivery_rate,quality_defect_rate,financial_health_score,is_single_source
+SUP-001,Adria Components,Bosnia and Herzegovina,6,0.96,0.015,88,false
+SUP-002,Danube Plastics,Serbia,14,0.84,0.042,63,true
+SUP-003,Alpine Metals,Austria,9,0.91,0.021,79,false
+SUP-004,MedPort Logistics,Croatia,18,0.78,0.056,54,true
+SUP-005,Central Packaging,Hungary,7,0.93,0.018,82,false
