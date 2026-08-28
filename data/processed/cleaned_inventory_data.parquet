@@ -1,0 +1,1 @@
+Install pyarrow to create parquet at runtime; pipeline creates it when dependencies are available.
