@@ -1,0 +1,22 @@
+llm:
+  provider: openai
+  model: ${LLM_MODEL}
+  temperature: 0.1
+risk_scoring:
+  high_threshold: 75
+  medium_threshold: 45
+  weights:
+    delivery_delay: 0.25
+    quality_defect_rate: 0.2
+    financial_stability: 0.2
+    contract_penalties: 0.2
+    single_source_dependency: 0.15
+human_in_the_loop:
+  require_manager_review_above: 75
+  require_legal_review_for_penalty_clause: true
+forecasting:
+  horizon_days: 90
+  validation_metric: mape
+ocr:
+  language: eng
+  confidence_threshold: 0.7
