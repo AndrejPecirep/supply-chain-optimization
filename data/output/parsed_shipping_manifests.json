@@ -1,0 +1,20 @@
+[
+  {
+    "manifest_id": "MAN-2026-0001",
+    "supplier": "Adria Components",
+    "delivery_date": "2026-02-14",
+    "vehicle": "TRUCK-BA-442",
+    "items": [
+      {
+        "sku": "SKU-A100",
+        "quantity": 120
+      },
+      {
+        "sku": "SKU-B200",
+        "quantity": 80
+      }
+    ],
+    "total_quantity": 200,
+    "source_file": "sample_manifest.txt"
+  }
+]
