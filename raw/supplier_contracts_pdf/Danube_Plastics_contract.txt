@@ -1,6 +1,0 @@
-Supplier: Danube Plastics
-SLA: Delivery within 15 business days. On-time delivery target is 85%.
-Penalty: Missed SLA can trigger expedited freight paid by supplier after the third incident.
-Exclusivity: Buyer relies on supplier for the custom resin component.
-Termination: 60 day cure period before termination.
-Risk notes: Single-source dependency and lower financial stability require monitoring.

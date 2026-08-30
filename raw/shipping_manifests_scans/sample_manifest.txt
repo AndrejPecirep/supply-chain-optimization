@@ -1,8 +1,0 @@
-Shipping Manifest
-Manifest ID: MAN-2026-0001
-Supplier: Adria Components
-Delivery Date: 2026-02-14
-SKU: SKU-A100 Quantity: 120
-SKU: SKU-B200 Quantity: 80
-Vehicle: TRUCK-BA-442
-Receiver: Warehouse Sarajevo
