@@ -1,0 +1,5 @@
+Supplier: Adria Components
+SLA: Standard delivery within 7 business days. Monthly on-time delivery target is 95%.
+Penalty: If monthly SLA drops below 90%, buyer may apply a 2% invoice credit.
+Termination: Buyer may terminate for repeated non-performance after written notice.
+Risk notes: No exclusivity requirement. Price review once per year.
